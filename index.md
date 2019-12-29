@@ -59,7 +59,7 @@ R&R at Games & Economic Behaviour (GEB)  \
 
 Signal processing on social media: Theory and evidence from financial markets  \
 with Peiran Jiao and Ansgar Walther   \
-R&R at Journal of Economic Behaviour & Organization (JEBO)  \ 
+R&R at Journal of Economic Behaviour & Organization (JEBO) \
 [PDF](https://www.dropbox.com/s/kq9od6e30tjed9z/Buzz.pdf?dl=0)
 
 Competitive Equilibrium in Screening Markets with Unbounded Types  \

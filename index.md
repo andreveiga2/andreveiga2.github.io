@@ -1,4 +1,4 @@
-![Image](https://www.dropbox.com/s/1pmhd1907dtlg7m/website_photo.jpeg?dl=0)
+![Image](website_photo.jpeg)
 
 I am an Assistant Professor of Economics at Imperial College Business School. My work on theoretical and empirical Industrial Organization, especially insurance, credit and healthcare markets.
 
@@ -25,6 +25,22 @@ American Economic Journal: Microeconomics, 2017
 [Article](https://www.aeaweb.org/articles?id=10.1257/mic.20150295)  
 [Code](https://www.dropbox.com/s/m7zeg4cqwpxd669/AEJ2017_code.zip?dl=0)  
 
+Multidimensional Platform Design  
+with Alexander White and E.Glen Weyl  
+American Economic Review: Papers and Proceedings, 2017  
+[Article]
+
+Product Design in Selection Markets  
+with E. Glen Weyl  
+Quarterly Journal of Economics, 2016  
+[Article]
+[Code] 
+[On Slate.com]
+
+Competition Policy in Selection Markets  
+with Neale Mahoney and E. Glen Weyl  
+CPI Antitrust Chronicle, 2014  
+[Article]  
 
 
 
@@ -64,10 +80,3 @@ Syntax highlighted code block
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/andreveiga2/andreveiga.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.

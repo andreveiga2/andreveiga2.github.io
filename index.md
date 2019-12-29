@@ -1,15 +1,17 @@
-![Image](website_photo.jpeg)
+<p align="center">
+  <img src="website_photo.jpeg" />
+</p>
 
-I am an Assistant Professor of Economics at Imperial College Business School. My work on theoretical and empirical Industrial Organization, especially insurance, credit and healthcare markets.
+I am an Assistant Professor of Economics at Imperial College Business School. I work on theoretical and empirical Industrial Organization, especially insurance, credit and healthcare markets.
 
-**Contact:**
+**Contact:** . 
 Imperial College Business School  
 South Kensington Campus, London SW12AZ, UK  
 +44 (0)20 7594 7957    
 a.veiga@imperial.ac.uk 
 
-[[Google Scholar Profile]](https://scholar.google.com/citations?user=C-gmx8QAAAAJ&hl=en)  
-[[CV]](https://www.dropbox.com/s/dbcryohnz4sh8r1/Veiga_CV.pdf?dl=0)
+[Google Scholar Profile](https://scholar.google.com/citations?user=C-gmx8QAAAAJ&hl=en)  
+[CV](https://www.dropbox.com/s/dbcryohnz4sh8r1/Veiga_CV.pdf?dl=0)
 
 
 
@@ -28,14 +30,13 @@ American Economic Journal: Microeconomics, 2017
 Multidimensional Platform Design  
 with Alexander White and E.Glen Weyl  
 American Economic Review: Papers and Proceedings, 2017  
-[Article]
+[Article](https://www.aeaweb.org/conference/2017/preliminary/paper/yd8Y9it3)  
 
 Product Design in Selection Markets  
 with E. Glen Weyl  
 Quarterly Journal of Economics, 2016  
-[Article]
-[Code] 
-[On Slate.com]
+[Article](https://academic.oup.com/qje/article/131/2/1007/2607142)  
+[Code](https://www.dropbox.com/s/7xyt4qg54p3whmg/QJE2016_code.zip?dl=0)  
 
 Competition Policy in Selection Markets  
 with Neale Mahoney and E. Glen Weyl  
@@ -44,39 +45,63 @@ CPI Antitrust Chronicle, 2014
 
 
 
-## Welcome to GitHub Pages
+## Working Papers
+Positive Equilibrium Profits in Competitive Screening Markets   
+with John Levy  
+R&R at Games & Economic Behaviour (GEB)  
+[PDF](https://www.dropbox.com/s/6119jiimf31yax4/comp_profits.pdf?dl=0)
+
+Signal processing on social media: Theory and evidence from financial markets  
+with Peiran Jiao and Ansgar Walther   
+R&R at Journal of Economic Behaviour & Organization (JEBO)  
+[PDF](https://www.dropbox.com/s/kq9od6e30tjed9z/Buzz.pdf?dl=0)
+
+Competitive Equilibrium in Screening Markets with Unbounded Types  
+with John Levy  
+Shortlisted for SCOR/EGRIE Young Economist Best Paper Award 2018   
+R&R at Journal of Economic Theory  
+[PDF](https://www.dropbox.com/s/8klx4ydtecp1201/Eql_unbounded.pdf?dl=0)  
+
+Community Rating in Markets for Lemons  
+[PDF](https://www.dropbox.com/s/a9o8ylg9n0fzgcg/JMP.pdf?dl=0)
+
+Migration Between Platforms  
+with Gary Biglaiser and Jacques Cremer  
+[PDF](https://www.tse-fr.eu/sites/default/files/TSE/documents/doc/wp/2019/wp_tse_1038.pdf)
 
 
+## Work in Progress
+
+Quality Information and Competitive Selection in Health Care  
+with Zach Brown, Ashvin Gandhi and Christopher Hansmann  
+
+Frictions and Equilibria in Insurance Markets  
+with John Levy  
+
+Fifth Degree Price Discrimination  
+with Daniel Quigley  
 
 
+## Teaching
 
-## Welcome to GitHub Pages
+Microeconomic Theory (Imperial, Phd)
 
-You can use the [editor on GitHub](https://github.com/andreveiga2/andreveiga.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Digital Economics and Strategy (Imperial, Masters)  
+[Feedback]
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Joint Honors Business Economics (Imperial, undergraduate)
+[Feedback]
 
-### Markdown
+BPES Business Economics (Imperial, undergraduate)
+[Feedback]
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Quantitative Economics (Oxford, undergraduate)   
+Economics of Industry (Oxford, undergraduate)  
+Core Micro (Oxford, undergraduate)  
 
-```markdown
-Syntax highlighted code block
+Selection Markets (Oxford, PhD)   
+[materials]
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+Network Markets (Oxford, PhD)   
+[materials]
 

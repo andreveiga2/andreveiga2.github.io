@@ -1,3 +1,5 @@
+![Image](https://www.dropbox.com/s/1pmhd1907dtlg7m/website_photo.jpeg?dl=0)
+
 I am an Assistant Professor of Economics at Imperial College Business School. My work on theoretical and empirical Industrial Organization, especially insurance, credit and healthcare markets.
 
 **Contact:**
@@ -8,6 +10,27 @@ a.veiga@imperial.ac.uk
 
 [[Google Scholar Profile]](https://scholar.google.com/citations?user=C-gmx8QAAAAJ&hl=en)  
 [[CV]](https://www.dropbox.com/s/dbcryohnz4sh8r1/Veiga_CV.pdf?dl=0)
+
+
+
+## Publications
+
+A Note on How to Sell a Network Good  
+International Journal of Industrial Organization, 2018  
+[Article](https://www.sciencedirect.com/science/article/pii/S0167718718300195)
+
+Pricing Institutions and the Welfare Cost of Adverse Selection  
+with E. Glen Weyl  
+American Economic Journal: Microeconomics, 2017  
+[Article](https://www.aeaweb.org/articles?id=10.1257/mic.20150295)  
+[Code](https://www.dropbox.com/s/m7zeg4cqwpxd669/AEJ2017_code.zip?dl=0)  
+
+
+
+
+## Welcome to GitHub Pages
+
+
 
 
 

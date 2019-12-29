@@ -1,9 +1,11 @@
+# Andre Veiga
+
 <p align="center">
   <img src="website_photo.jpeg" />
 </p>
 
-I am an Assistant Professor of Economics at Imperial College Business School. 
-I work on theoretical and empirical Industrial Organization, especially insurance, credit and healthcare markets.
+**Assistant Professor of Economics**   
+Interests: Theoretical and empirical Industrial Organization. Insurance, credit, healthcare.
 
 **Contact:**  
 Imperial College Business School  

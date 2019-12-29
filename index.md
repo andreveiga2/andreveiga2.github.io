@@ -2,9 +2,10 @@
   <img src="website_photo.jpeg" />
 </p>
 
-I am an Assistant Professor of Economics at Imperial College Business School. I work on theoretical and empirical Industrial Organization, especially insurance, credit and healthcare markets.
+I am an Assistant Professor of Economics at Imperial College Business School. 
+I work on theoretical and empirical Industrial Organization, especially insurance, credit and healthcare markets.
 
-**Contact:** . 
+**Contact:**  
 Imperial College Business School  
 South Kensington Campus, London SW12AZ, UK  
 +44 (0)20 7594 7957    
@@ -15,7 +16,11 @@ a.veiga@imperial.ac.uk
 
 
 
+
+
 ## Publications
+
+
 
 A Note on How to Sell a Network Good  
 International Journal of Industrial Organization, 2018  
@@ -24,8 +29,7 @@ International Journal of Industrial Organization, 2018
 Pricing Institutions and the Welfare Cost of Adverse Selection  
 with E. Glen Weyl  
 American Economic Journal: Microeconomics, 2017  
-[Article](https://www.aeaweb.org/articles?id=10.1257/mic.20150295)  
-[Code](https://www.dropbox.com/s/m7zeg4cqwpxd669/AEJ2017_code.zip?dl=0)  
+[Article](https://www.aeaweb.org/articles?id=10.1257/mic.20150295) [Code](https://www.dropbox.com/s/m7zeg4cqwpxd669/AEJ2017_code.zip?dl=0)  
 
 Multidimensional Platform Design  
 with Alexander White and E.Glen Weyl  
@@ -35,13 +39,12 @@ American Economic Review: Papers and Proceedings, 2017
 Product Design in Selection Markets  
 with E. Glen Weyl  
 Quarterly Journal of Economics, 2016  
-[Article](https://academic.oup.com/qje/article/131/2/1007/2607142)  
-[Code](https://www.dropbox.com/s/7xyt4qg54p3whmg/QJE2016_code.zip?dl=0)  
+[Article](https://academic.oup.com/qje/article/131/2/1007/2607142) [Code](https://www.dropbox.com/s/7xyt4qg54p3whmg/QJE2016_code.zip?dl=0)  
 
 Competition Policy in Selection Markets  
 with Neale Mahoney and E. Glen Weyl  
 CPI Antitrust Chronicle, 2014  
-[Article]  
+[Article](https://www.competitionpolicyinternational.com/competition-policy-in-selection-markets/)
 
 
 
@@ -84,24 +87,14 @@ with Daniel Quigley
 
 ## Teaching
 
-Microeconomic Theory (Imperial, Phd)
+Microeconomic Theory (Imperial, Phd)  
+Digital Economics and Strategy (Imperial, Masters) [Feedback](https://forms.gle/FWjyuw9q8sCZUhid7)  
+Business Economics (Imperial, undergraduate) [Feedback](https://forms.gle/J8HeWwdXs16jBs4X7)  
 
-Digital Economics and Strategy (Imperial, Masters)  
-[Feedback]
+Quantitative Economics (Oxford, undergraduate)    
+Economics of Industry (Oxford, undergraduate)   
+Core Micro (Oxford, undergraduate)   
 
-Joint Honors Business Economics (Imperial, undergraduate)
-[Feedback]
-
-BPES Business Economics (Imperial, undergraduate)
-[Feedback]
-
-Quantitative Economics (Oxford, undergraduate)   
-Economics of Industry (Oxford, undergraduate)  
-Core Micro (Oxford, undergraduate)  
-
-Selection Markets (Oxford, PhD)   
-[materials]
-
-Network Markets (Oxford, PhD)   
-[materials]
+Selection Markets (Oxford, PhD) [materials](https://www.dropbox.com/s/99djw51e7msv5um/ox_selection.zip?dl=0)  
+Network Markets (Oxford, PhD) [materials](https://www.dropbox.com/s/ag5jc5buurlkzxf/ox_networks.zip?dl=0)
 

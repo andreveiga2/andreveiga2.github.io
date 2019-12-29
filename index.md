@@ -1,3 +1,18 @@
+I am an Assistant Professor of Economics at Imperial College Business School. My work on theoretical and empirical Industrial Organization, especially insurance, credit and healthcare markets.
+
+**Contact:**
+Imperial College Business School
+South Kensington Campus, London SW12AZ, UK
++44 (0)20 7594 7957
+a.veiga@imperial.ac.uk
+
+[Link]
+
+[Google Scholar Profile] (https://scholar.google.com/citations?user=C-gmx8QAAAAJ&hl=en)
+[CV] (https://www.dropbox.com/s/dbcryohnz4sh8r1/Veiga_CV.pdf?dl=0)
+
+
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/andreveiga2/andreveiga.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.

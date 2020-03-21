@@ -4,16 +4,16 @@
   <img src="website_photo.jpeg" />
 </p>
 
-**Assistant Professor of Economics**\
+**Assistant Professor of Economics**
 Interests: Theoretical and empirical Industrial Organization. Insurance, credit, healthcare.
 
-**Contact:**\
-Imperial College Business School  \
-South Kensington Campus, London SW12AZ, UK  \
-+44 (0)20 7594 7957    \
-a.veiga@imperial.ac.uk
+**Contact:**
+Imperial College Business School  
+South Kensington Campus, London SW12AZ, UK. 
++44 (0)20 7594 7957  
+a.veiga@imperial.ac.uk  
 
-[Google Scholar Profile](https://scholar.google.com/citations?user=C-gmx8QAAAAJ&hl=en)  \
+[Google Scholar Profile](https://scholar.google.com/citations?user=C-gmx8QAAAAJ&hl=en). 
 [CV](https://www.dropbox.com/s/dbcryohnz4sh8r1/Veiga_CV.pdf?dl=0)
 
 

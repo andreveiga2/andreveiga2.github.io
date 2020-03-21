@@ -4,7 +4,7 @@
   <img src="website_photo.jpeg" />
 </p>
 
-**Assistant Professor of Economics**
+**Assistant Professor of Economics**  
 Interests: Theoretical and empirical Industrial Organization. Insurance, credit, healthcare.
 
 **Contact:**
@@ -24,8 +24,8 @@ a.veiga@imperial.ac.uk
 
 
 
-A Note on How to Sell a Network Good\  
-International Journal of Industrial Organization, 2018  \
+A Note on How to Sell a Network Good  
+**International Journal of Industrial Organization**, 2018  
 [Article](https://www.sciencedirect.com/science/article/pii/S0167718718300195)
 
 Pricing Institutions and the Welfare Cost of Adverse Selection  \

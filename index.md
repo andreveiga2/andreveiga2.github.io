@@ -1,17 +1,5 @@
 I am an Assistant Professor of Economics at Imperial College Business School. My research interests are in theoretical and empirical Industrial Organization, especially insurance, credit and healthcare markets.
 
-**Contact:**  <br/>
-Imperial College Business School  <br/>
-South Kensington Campus, London SW12AZ, UK <br/>
-Phone: +44 (0)20 7594 7957 <br/>
-Email: <a.veiga@imperial.ac.uk> <br/>
-
-[Google Scholar Profile](https://scholar.google.com/citations?user=C-gmx8QAAAAJ&hl=en)
-
-[CV](https://www.dropbox.com/s/dbcryohnz4sh8r1/Veiga_CV.pdf?dl=0)
-
-
-
 
 ## Publications
 
@@ -48,13 +36,13 @@ Product Design in Selection Markets, with E. Glen Weyl <br/>
 Competitive Equilibrium in Screening Markets with Unbounded Types, with John Levy  <br/>
 Shortlisted for SCOR/EGRIE Young Economist Best Paper Award 2018   <br/>
 **Journal of Economic Theory**, R&R  <br/>
-[PDF](https://ssrn.com/abstract=3545493)
+[SSRN](https://ssrn.com/abstract=3545493)
 
 Community Rating in Markets for Lemons  <br/>
-[PDF](https://ssrn.com/abstract=3545479)
+[SSRN](https://ssrn.com/abstract=3545479)
 
 Migration Between Platforms, with Gary Biglaiser and Jacques Cremer  <br/>
-[PDF](http://ssrn.com/abstract=3557782)
+[SSRN](http://ssrn.com/abstract=3557782)
 
 
 

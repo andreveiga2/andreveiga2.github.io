@@ -1,7 +1,3 @@
-# Andre Veiga
-
-<img src="website_photo.jpeg" />
-
 **Assistant Professor of Economics** <br/> 
 Interests: theoretical and empirical Industrial Organization, internet markets, insurance, credit, healthcare.
 

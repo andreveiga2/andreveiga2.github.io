@@ -1,17 +1,5 @@
-
-<p style="text-align: center;"> 
-Andre Veiga
- </p> 
-
-
-# Andre Veiga
-
-<p align="center">
-  <img src="website_photo.jpeg" />
-</p>
-
 **Assistant Professor of Economics** <br/> 
-Interests: Theoretical and empirical Industrial Organization. Insurance, credit, healthcare.
+Interests: theoretical and empirical Industrial Organization, insurance, credit, healthcare.
 
 **Contact:**  <br/>
 Imperial College Business School  <br/>

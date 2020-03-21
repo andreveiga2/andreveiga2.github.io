@@ -1,5 +1,4 @@
-**Assistant Professor of Economics** <br/> 
-Interests: theoretical and empirical Industrial Organization, internet markets, insurance, credit, healthcare.
+I am an Assistant Professor of Economics at Imperial College Business School. My research interests are in theoretical and empirical Industrial Organization, especially insurance, credit and healthcare markets.
 
 **Contact:**  <br/>
 Imperial College Business School  <br/>

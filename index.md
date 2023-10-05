@@ -15,7 +15,11 @@ South Kensington Campus, London SW12AZ, UK <br/>
 Phone: +44 (0)20 7594 7957 <br/>
 Email: <a.veiga@imperial.ac.uk> <br/>
 
-<a href="Veiga_CV.pdf" target="_blank">CV</a> | <a href="https://scholar.google.com/citations?user=C-gmx8QAAAAJ&hl=en" target="_blank"> Google Scholar Profile</a> | <a href="https://www.imperial.ac.uk/people/a.veiga" target="_blank"> Imperial College Profile</a>
+<a href="Veiga_CV.pdf" target="_blank">CV</a> 
+|
+<a href="https://scholar.google.com/citations?user=C-gmx8QAAAAJ&hl=en" target="_blank"> Google Scholar Profile</a> 
+|
+<a href="https://www.imperial.ac.uk/people/a.veiga" target="_blank"> Imperial College Profile</a>
 
 
 

@@ -1,7 +1,7 @@
 # Andre Veiga
 
 
-![Me](website_photo.jpeg)
+![Hello!](website_photo.jpeg)
 
 
 **Assistant Professor of Economics** <br/> 
@@ -24,7 +24,7 @@ Email: <a.veiga@imperial.ac.uk> <br/>
 ## Working Papers
 
 
-[Information and Disparities in Health Care Quality: Evidence from GP Choice in England](https://www.nber.org/papers/w31033) [(SSRN)](https://ssrn.com/abstract=4393373), with Zach Brown, Chris Hansman, and Jordan Keener <br/>
+[Information and Disparities in Health Care Quality: Evidence from GP Choice in England](https://ssrn.com/abstract=4393373), with Zach Brown, Chris Hansman, and Jordan Keener <br/>
 Coverage: [Vox EU](https://cepr.org/voxeu/columns/why-high-income-patients-go-higher-quality-doctors)
 
 

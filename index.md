@@ -6,7 +6,7 @@
 
 **Assistant Professor of Economics** <br/> 
 
-My research focuses on the Industrial Organisation of healthcare, insurance and digital markets. I use theory and data to understand how individuals and firms operate in these markets, and how best to regulate them.
+I study the Industrial Organisation of healthcare, insurance and digital markets. I use theory and data to understand how individuals and firms operate in these markets, and how best to regulate them.
 
 
 **Contact:**  <br/>
@@ -17,9 +17,9 @@ Email: <a.veiga@imperial.ac.uk> <br/>
 
 <a href="Veiga_CV.pdf" target="_blank">CV</a> 
 |
-<a href="https://scholar.google.com/citations?user=C-gmx8QAAAAJ&hl=en" target="_blank"> Google Scholar Profile</a> 
+<a href="https://scholar.google.com/citations?user=C-gmx8QAAAAJ&hl=en" target="_blank"> Google Scholar</a> 
 |
-<a href="https://www.imperial.ac.uk/people/a.veiga" target="_blank"> Imperial College Profile</a>
+<a href="https://www.imperial.ac.uk/people/a.veiga" target="_blank"> Imperial College Page</a>
 
 
 
@@ -33,18 +33,20 @@ Coverage: [Vox EU](https://cepr.org/voxeu/columns/why-high-income-patients-go-hi
 
 
 [Optimal Contract Regulation in Selection Markets](http://dx.doi.org/10.2139/ssrn.4029945), with John Levy<br/>
-**R&R at AJE: Micro**
+**R&R at AEJ: Micro**
 
 
-[Attention Spillovers from News to Ads: Evidence from an Eye-Tracking Experiment](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3836531), with Tommaso Valletti and Andrey Simonov <br/>
-**R&R at Journal of Marketing Research** <br/>
-Coverage: [Faculty.net](https://faculti.net/attention-recall-and-purchase/) | [Vox EU](https://cepr.org/voxeu/columns/advertiser-block-lists-threat-media-integrity)
+
 
 
 
 
 
 ## Publications
+
+[Attention Spillovers from News to Ads: Evidence from an Eye-Tracking Experiment](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3836531), with Tommaso Valletti and Andrey Simonov <br/>
+**Conditionally Accepted at Journal of Marketing Research** <br/>
+Coverage: [Faculty.net](https://faculti.net/attention-recall-and-purchase/) | [Vox EU](https://cepr.org/voxeu/columns/advertiser-block-lists-threat-media-integrity)
 
 
 [Price Discrimination in Selection Markets](https://doi.org/10.1162/rest_a_01330) <br/>

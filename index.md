@@ -161,12 +161,9 @@ Coverage:
 
 [comment]: # (Must include FULL URL for google forms, otherwise it doesnt work when uploaded)
 
-Microeconomic Theory (Imperial, Phd) 
-[Feedback](https://docs.google.com/forms/d/e/1FAIpQLSf5TpaKbhvj7LRPeZIlr2UwMENWMbJQf41G0fMi-6lK3tjHnA/viewform?usp=sf_link) <br/>
-Digital Economics (Imperial, MsC)
-[Feedback](https://docs.google.com/forms/d/e/1FAIpQLScNdfV8SmD1bsTZgoC_ogYQX_2c7G5kPlrRgGJm1TjZmS3Ubw/viewform?usp=sf_link) <br/>
+Microeconomic Theory (Imperial, Phd) <br/>
+Digital Economics (Imperial, MsC) <br/>
 Business Economics (Imperial, undergraduate)
-[Feedback](https://docs.google.com/forms/d/e/1FAIpQLSe51UFpT-E0Nq6J1I9I5nbP8P1yjuVvbqoS9Ad1IqdYo2C7OQ/viewform?usp=sf_link)
 
 Quantitative Economics, Economics of Industry, Core Micro (Oxford, undergraduate) <br/>
 [Selection Markets](teaching_selection.zip),  [Network Markets](teaching_networks.zip) (Oxford, Phd)

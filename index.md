@@ -45,7 +45,7 @@ Coverage: [Vox EU](https://cepr.org/voxeu/columns/why-high-income-patients-go-hi
 ## Publications
 
 [Attention Spillovers from News to Ads: Evidence from an Eye-Tracking Experiment](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3836531), with Tommaso Valletti and Andrey Simonov <br/>
-**Conditionally Accepted at Journal of Marketing Research** <br/>
+**Journal of Marketing Research**, Forthcoming <br/>
 Coverage: [Faculty.net](https://faculti.net/attention-recall-and-purchase/) | [Vox EU](https://cepr.org/voxeu/columns/advertiser-block-lists-threat-media-integrity)
 
 

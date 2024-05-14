@@ -1,7 +1,7 @@
 # Andre Veiga
 
 
-![Hello!](website_photo.jpeg)
+![Andre Veiga](website_photo.jpeg)
 
 
 **Assistant Professor of Economics** <br/> 
@@ -29,7 +29,7 @@ Email: <a.veiga@imperial.ac.uk> <br/>
 
 
 [Information and Disparities in Health Care Quality: Evidence from GP Choice in England](https://ssrn.com/abstract=4393373), with Zach Brown, Chris Hansman, and Jordan Keener <br/>
-Coverage: [Vox EU](https://cepr.org/voxeu/columns/why-high-income-patients-go-higher-quality-doctors)
+Media: [Vox EU](https://cepr.org/voxeu/columns/why-high-income-patients-go-higher-quality-doctors)
 
 
 [Optimal Contract Regulation in Selection Markets](http://dx.doi.org/10.2139/ssrn.4029945), with John Levy<br/>
@@ -46,7 +46,7 @@ Coverage: [Vox EU](https://cepr.org/voxeu/columns/why-high-income-patients-go-hi
 
 [Attention Spillovers from News to Ads: Evidence from an Eye-Tracking Experiment](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3836531), with Tommaso Valletti and Andrey Simonov <br/>
 **Journal of Marketing Research**, Forthcoming <br/>
-Coverage: [Faculty.net](https://faculti.net/attention-recall-and-purchase/) | [Vox EU](https://cepr.org/voxeu/columns/advertiser-block-lists-threat-media-integrity)
+Media: [Faculty.net](https://faculti.net/attention-recall-and-purchase/) | [Vox EU](https://cepr.org/voxeu/columns/advertiser-block-lists-threat-media-integrity)
 
 
 [Price Discrimination in Selection Markets](https://doi.org/10.1162/rest_a_01330) <br/>
@@ -58,7 +58,7 @@ Shortlisted for SCOR/EGRIE Young Economist Best Paper Award 2020   <br/>
 [Should I stay or should I go? Migrating away from an incumbent platform](http://dx.doi.org/10.1111/1756-2171.12418), with Gary Biglaiser and Jacques Cremer  <br/>
 **RAND Journal of Economics**, 2022 <br/>
 Shortlisted for Best paper in Economics, 2023 Antitrust Writing Awards <br/>
-Coverage: [Faculty.net](https://faculti.net/should-i-stay-or-should-i-go-migrating-away-from-an-incumbent-platform/) | 
+Media: [Faculty.net](https://faculti.net/should-i-stay-or-should-i-go-migrating-away-from-an-incumbent-platform/) | 
 [IB Knowledge](https://www.imperial.ac.uk/business-school/ib-knowledge/strategy-leadership/why-did-google-fail) |
 [Promarket](https://www.promarket.org/2023/02/16/user-hesitancy-increases-online-platforms-incumbency-advantage/)
 
@@ -77,8 +77,8 @@ Shortlisted for SCOR/EGRIE Young Economist Best Paper Award 2018 <br/>
 
 [Social Media, News Media and the Stock Market](https://doi.org/10.1016/j.jebo.2020.03.002), with Peiran Jiao and Ansgar Walther <br/>
 **Journal of Economic Behaviour & Organization**, 2020 <br/>
-Coverage:
-[Baron's](https://www.barrons.com/articles/social-media-coverage-of-stocks-can-be-misleading-1480137067) |
+Media:
+[Baron's](https://www.barrons.com/articles/social-media-Media-of-stocks-can-be-misleading-1480137067) |
 [Bloomberg](https://www.bloomberg.com/news/articles/2016-04-13/twitter-and-the-stock-news-echo-chamber-that-whips-up-volatility) |
 [The Globe and Mail](https://www.theglobeandmail.com/globe-investor/investment-ideas/social-medias-stale-news-effect-spurs-stock-volatility-study-finds/article29622358/) |
 [City A.M.](https://www.cityam.com/the-twitter-news-merry-go-round-increases-volatility-in-financial-markets-study-says/) |
@@ -167,4 +167,31 @@ Business Economics (Imperial, undergraduate)
 
 Quantitative Economics, Economics of Industry, Core Micro (Oxford, undergraduate) <br/>
 [Selection Markets](teaching_selection.zip),  [Network Markets](teaching_networks.zip) (Oxford, Phd)
+
+
+
+
+
+
+
+## Non-Academic Publications
+
+[Why high-income patients go to higher quality doctors](https://cepr.org/voxeu/columns/why-high-income-patients-go-higher-quality-doctors), CEPR Vox EU, 2023
+
+[Can anyone topple X (the platform formerly known as Twitter)?](https://www.imperial.ac.uk/business-school/ib-knowledge/entrepreneurship-innovation/can-anyone-topple-x-the-platform-formerly-known-twitter/), IB Knowledge, 2023
+
+[Why did Google+ fail?](https://www.imperial.ac.uk/business-school/ib-knowledge/strategy-leadership/why-did-google-fail/), IB Knowledge, 2022
+
+
+
+
+
+
+
+
+
+
+
+
+
 

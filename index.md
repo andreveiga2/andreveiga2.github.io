@@ -29,10 +29,11 @@ Email: <a.veiga@imperial.ac.uk> <br/>
 
 
 [Information and Disparities in Health Care Quality: Evidence from GP Choice in England](https://ssrn.com/abstract=4393373), with Zach Brown, Chris Hansman, and Jordan Keener <br/>
-Media: [Vox EU](https://cepr.org/voxeu/columns/why-high-income-patients-go-higher-quality-doctors)
+Media: [Vox EU](https://cepr.org/voxeu/columns/why-high-income-patients-go-higher-quality-doctors) <br/>
+**Reject & Resubmit at American Economic Review**
 
 
-[Optimal Contract Regulation in Selection Markets](http://dx.doi.org/10.2139/ssrn.4029945), with John Levy<br/>
+[Optimal Contract Regulation in Selection Markets](http://dx.doi.org/10.2139/ssrn.4029945), with John Levy <br/>
 **R&R at AEJ: Micro**
 
 

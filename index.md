@@ -30,11 +30,10 @@ Email: <a.veiga@imperial.ac.uk> <br/>
 
 [Information and Disparities in Health Care Quality: Evidence from GP Choice in England](https://ssrn.com/abstract=4393373), with Zach Brown, Chris Hansman, and Jordan Keener <br/>
 Media: [Vox EU](https://cepr.org/voxeu/columns/why-high-income-patients-go-higher-quality-doctors) <br/>
-**Reject & Resubmit at American Economic Review**
+Reject & Resubmit at **American Economic Review**
 
 
-[Optimal Contract Regulation in Selection Markets](http://dx.doi.org/10.2139/ssrn.4029945), with John Levy <br/>
-**R&R at AEJ: Micro**
+
 
 
 
@@ -45,8 +44,11 @@ Media: [Vox EU](https://cepr.org/voxeu/columns/why-high-income-patients-go-highe
 
 ## Publications
 
+[Optimal Contract Regulation in Selection Markets](http://dx.doi.org/10.2139/ssrn.4029945), with John Levy <br/>
+**AEJ: Micro**, Forthcoming
+
 [Attention Spillovers from News to Ads: Evidence from an Eye-Tracking Experiment](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3836531), with Tommaso Valletti and Andrey Simonov <br/>
-**Journal of Marketing Research**, Forthcoming <br/>
+**Journal of Marketing Research**, 2024 <br/>
 Media: [Faculty.net](https://faculti.net/attention-recall-and-purchase/) | [Vox EU](https://cepr.org/voxeu/columns/advertiser-block-lists-threat-media-integrity)
 
 

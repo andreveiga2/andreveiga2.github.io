@@ -47,9 +47,13 @@ Reject & Resubmit at **American Economic Review**
 [Optimal Contract Regulation in Selection Markets](http://dx.doi.org/10.2139/ssrn.4029945), with John Levy <br/>
 **AEJ: Micro**, Forthcoming
 
-[Attention Spillovers from News to Ads: Evidence from an Eye-Tracking Experiment](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3836531), with Tommaso Valletti and Andrey Simonov <br/>
+
+[Attention Spillovers from News to Ads: Evidence from an Eye-Tracking Experiment](https://doi.org/10.1177/00222437241256900), with Tommaso Valletti and Andrey Simonov <br/>
 **Journal of Marketing Research**, 2024 <br/>
-Media: [Faculty.net](https://faculti.net/attention-recall-and-purchase/) | [Vox EU](https://cepr.org/voxeu/columns/advertiser-block-lists-threat-media-integrity)
+Media: [Faculty.net](https://faculti.net/attention-recall-and-purchase/) | [Vox EU](https://cepr.org/voxeu/columns/advertiser-block-lists-threat-media-integrity) <br/>
+[Ungated](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3836531)
+
+
 
 
 [Price Discrimination in Selection Markets](https://doi.org/10.1162/rest_a_01330) <br/>

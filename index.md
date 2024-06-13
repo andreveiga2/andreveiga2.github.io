@@ -50,8 +50,7 @@ Reject & Resubmit at **American Economic Review**
 
 [Attention Spillovers from News to Ads: Evidence from an Eye-Tracking Experiment](https://doi.org/10.1177/00222437241256900), with Tommaso Valletti and Andrey Simonov <br/>
 **Journal of Marketing Research**, 2024 <br/>
-Media: [Faculty.net](https://faculti.net/attention-recall-and-purchase/) | [Vox EU](https://cepr.org/voxeu/columns/advertiser-block-lists-threat-media-integrity) <br/>
-[Ungated](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3836531)
+Media: [Faculty.net](https://faculti.net/attention-recall-and-purchase/) | [Vox EU](https://cepr.org/voxeu/columns/advertiser-block-lists-threat-media-integrity)
 
 
 
@@ -160,6 +159,15 @@ Media:
 
 
 
+## Non-Academic Publications
+
+[Why high-income patients go to higher quality doctors](https://cepr.org/voxeu/columns/why-high-income-patients-go-higher-quality-doctors), CEPR Vox EU, 2023 
+
+[Can anyone topple X (the platform formerly known as Twitter)?](https://www.imperial.ac.uk/business-school/ib-knowledge/entrepreneurship-innovation/can-anyone-topple-x-the-platform-formerly-known-twitter/), IB Knowledge, 2023
+
+[Why did Google+ fail?](https://www.imperial.ac.uk/business-school/ib-knowledge/strategy-leadership/why-did-google-fail/), IB Knowledge, 2022
+
+
 
 
 
@@ -168,26 +176,18 @@ Media:
 
 [comment]: # (Must include FULL URL for google forms, otherwise it doesnt work when uploaded)
 
+Digital Economics (Imperial, MsC ESB) - [Feedback](https://forms.gle/bZjx2Ah5x1hkhTpbA) <br/>
+Business Economics (Imperial, MsC ESB) - [Feedback](https://forms.gle/NDGkdQBCqPjGWMGn6) <br/>
+Business Economics (Imperial, BPES) <br/> 
 Microeconomic Theory (Imperial, Phd) <br/>
-Digital Economics (Imperial, MsC) <br/>
-Business Economics (Imperial, undergraduate)
-
 Quantitative Economics, Economics of Industry, Core Micro (Oxford, undergraduate) <br/>
-[Selection Markets](teaching_selection.zip),  [Network Markets](teaching_networks.zip) (Oxford, Phd)
+[Selection Markets](teaching_selection.zip) (Oxford, Phd) <br/>
+[Network Markets](teaching_networks.zip) (Oxford, Phd)
 
 
 
 
 
-
-
-## Non-Academic Publications
-
-[Why high-income patients go to higher quality doctors](https://cepr.org/voxeu/columns/why-high-income-patients-go-higher-quality-doctors), CEPR Vox EU, 2023
-
-[Can anyone topple X (the platform formerly known as Twitter)?](https://www.imperial.ac.uk/business-school/ib-knowledge/entrepreneurship-innovation/can-anyone-topple-x-the-platform-formerly-known-twitter/), IB Knowledge, 2023
-
-[Why did Google+ fail?](https://www.imperial.ac.uk/business-school/ib-knowledge/strategy-leadership/why-did-google-fail/), IB Knowledge, 2022
 
 
 

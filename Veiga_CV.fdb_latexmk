@@ -1,6 +1,6 @@
 # Fdb version 3
-["pdflatex"] 1720616539 "/Users/andreveiga/Desktop/Dropbox/git_repos/andreveiga2.github.io/Veiga_CV.tex" "Veiga_CV.pdf" "Veiga_CV" 1720616539
-  "/Users/andreveiga/Desktop/Dropbox/git_repos/andreveiga2.github.io/Veiga_CV.tex" 1720616538 14908 11cc9f00adb5c9077ebe2dc1e243effb ""
+["pdflatex"] 1720616762 "/Users/andreveiga/Desktop/Dropbox/git_repos/andreveiga2.github.io/Veiga_CV.tex" "Veiga_CV.pdf" "Veiga_CV" 1720616762
+  "/Users/andreveiga/Desktop/Dropbox/git_repos/andreveiga2.github.io/Veiga_CV.tex" 1720616759 14925 0e261d021c5fa7a252c9f10f1fb6f6eb ""
   "/usr/local/texlive/2022/texmf-dist/fonts/enc/dvips/base/8r.enc" 1165713224 4850 80dc9bab7f31fb78a000ccfed0e27cab ""
   "/usr/local/texlive/2022/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/local/texlive/2022/texmf-dist/fonts/tfm/adobe/utopia/putb7t.tfm" 1136768653 5064 5bd9181f6ca2ab59c1725704f3eb746d ""
@@ -96,9 +96,9 @@
   "/usr/local/texlive/2022/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1647878959 4410336 7d30a02e9fa9a16d7d1f8d037ba69641 ""
   "/usr/local/texlive/2022/texmf-var/web2c/pdftex/pdflatex.fmt" 1660918859 2826438 ca6faed7e7212a2519eae5435b86aba8 ""
   "/usr/local/texlive/2022/texmf.cnf" 1647878952 577 209b46be99c9075fd74d4c0369380e8c ""
-  "Veiga_CV.aux" 1720616539 32 3985256e7290058c681f74d7a3565a19 "pdflatex"
+  "Veiga_CV.aux" 1720616762 32 3985256e7290058c681f74d7a3565a19 "pdflatex"
   "Veiga_CV.out" 0 -1 0 "pdflatex"
-  "Veiga_CV.tex" 1720616538 14908 11cc9f00adb5c9077ebe2dc1e243effb ""
+  "Veiga_CV.tex" 1720616759 14925 0e261d021c5fa7a252c9f10f1fb6f6eb ""
   "resume.cls" 1696448851 4866 261a0a7ebca15dfe5cfd39ed8acff345 ""
   (generated)
   "Veiga_CV.aux"

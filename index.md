@@ -29,7 +29,7 @@ Email: <a.veiga@imperial.ac.uk> <br/>
 
 
 [Information and Disparities in Health Care Quality: Evidence from GP Choice in England](https://ssrn.com/abstract=4393373), with Zach Brown, Chris Hansman, and Jordan Keener <br/>
-Media: [Vox EU](https://cepr.org/voxeu/columns/why-high-income-patients-go-higher-quality-doctors) <br/>
+Media: [Vox EU](https://cepr.org/voxeu/columns/why-high-income-patients-go-higher-quality-doctors) | [Forbes](https://www.forbes.com/sites/imperialinsights/2024/07/19/unequal-access-to-information-is-the-hidden-barrier-to-free-healthcare/)<br/>
 Reject & Resubmit at **American Economic Review**
 
 

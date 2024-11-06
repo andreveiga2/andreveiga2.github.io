@@ -44,9 +44,12 @@ Reject & Resubmit at **American Economic Review**
 
 ## Publications
 
-[Optimal Contract Regulation in Selection Markets](http://dx.doi.org/10.2139/ssrn.4029945), with John Levy <br/>
-**AEJ: Micro**, Accepted
 
+
+
+[Optimal Contract Regulation in Selection Markets](https://www.aeaweb.org/articles?id=10.1257/mic.20230164&&from=f), with John Levy <br/>
+**AEJ: Micro**, 2024 <br/>
+[SSRN](http://dx.doi.org/10.2139/ssrn.4029945) | [Code](code_2024_AEJMicro.zip)
 
 [Attention Spillovers from News to Ads: Evidence from an Eye-Tracking Experiment](https://doi.org/10.1177/00222437241256900), with Tommaso Valletti and Andrey Simonov <br/>
 **Journal of Marketing Research**, 2024 <br/>

@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.9.5)  1 JAN 2025 15:43
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.9.5)  28 FEB 2025 10:23
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -269,35 +269,48 @@ Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
 \Gm@layouthoffset=\dimen162
 \Gm@layoutvoffset=\dimen163
 \Gm@dimlist=\toks25
+) (/usr/local/texlive/2024/texmf-dist/tex/latex/etaremune/etaremune.sty
+Package: etaremune 2005/06/01 v1.2 Reversed enumerate (HA)
+ (/usr/local/texlive/2024/texmf-dist/tex/latex/xkeyval/xkeyval.sty
+Package: xkeyval 2022/06/16 v2.9 package option processing (HA)
+ (/usr/local/texlive/2024/texmf-dist/tex/generic/xkeyval/xkeyval.tex (/usr/local/texlive/2024/texmf-dist/tex/generic/xkeyval/xkvutils.tex
+\XKV@toks=\toks26
+\XKV@tempa@toks=\toks27
 )
-LaTeX Font Info:    Trying to load font information for OT1+put on input line 46.
+\XKV@depth=\count290
+File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
+))
+\c@EM@itemctr=\count291
+\c@EM@etaremunectr=\count292
+)
+LaTeX Font Info:    Trying to load font information for OT1+put on input line 45.
  (/usr/local/texlive/2024/texmf-dist/tex/latex/psnfss/ot1put.fd
 File: ot1put.fd 2001/06/04 font definitions for OT1/put.
 ) (/usr/local/texlive/2024/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
 File: l3backend-pdftex.def 2024-02-20 L3 backend support: PDF output (pdfTeX)
-\l__color_backend_stack_int=\count290
+\l__color_backend_stack_int=\count293
 \l__pdf_internal_box=\box55
 ) (./Veiga_CV.aux)
 \openout1 = `Veiga_CV.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 46.
-LaTeX Font Info:    ... okay on input line 46.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 46.
-LaTeX Font Info:    ... okay on input line 46.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 46.
-LaTeX Font Info:    ... okay on input line 46.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 46.
-LaTeX Font Info:    ... okay on input line 46.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 46.
-LaTeX Font Info:    ... okay on input line 46.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 46.
-LaTeX Font Info:    ... okay on input line 46.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 46.
-LaTeX Font Info:    ... okay on input line 46.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 46.
-LaTeX Font Info:    ... okay on input line 46.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 46.
-LaTeX Font Info:    ... okay on input line 46.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 45.
+LaTeX Font Info:    ... okay on input line 45.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 45.
+LaTeX Font Info:    ... okay on input line 45.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 45.
+LaTeX Font Info:    ... okay on input line 45.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 45.
+LaTeX Font Info:    ... okay on input line 45.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 45.
+LaTeX Font Info:    ... okay on input line 45.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 45.
+LaTeX Font Info:    ... okay on input line 45.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 45.
+LaTeX Font Info:    ... okay on input line 45.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 45.
+LaTeX Font Info:    ... okay on input line 45.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 45.
+LaTeX Font Info:    ... okay on input line 45.
  (/usr/local/texlive/2024/texmf-dist/tex/latex/graphics/color.sty
 Package: color 2022/01/06 v1.3d Standard LaTeX Color (DPC)
  (/usr/local/texlive/2024/texmf-dist/tex/latex/graphics-cfg/color.cfg
@@ -308,19 +321,19 @@ Package color Info: Driver file: pdftex.def on input line 149.
 File: pdftex.def 2022/09/22 v1.2b Graphics/color driver for pdftex
  (/usr/local/texlive/2024/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count291
+\scratchcounter=\count294
 \scratchdimen=\dimen164
 \scratchbox=\box56
-\nofMPsegments=\count292
-\nofMParguments=\count293
-\everyMPshowfont=\toks26
-\MPscratchCnt=\count294
+\nofMPsegments=\count295
+\nofMParguments=\count296
+\everyMPshowfont=\toks28
+\MPscratchCnt=\count297
 \MPscratchDim=\dimen165
-\MPnumerator=\count295
-\makeMPintoPDFobject=\count296
-\everyMPtoPDFconversion=\toks27
+\MPnumerator=\count298
+\makeMPintoPDFobject=\count299
+\everyMPtoPDFconversion=\toks29
 )) (/usr/local/texlive/2024/texmf-dist/tex/latex/graphics/mathcolor.ltx))
-Package hyperref Info: Link coloring ON on input line 46.
+Package hyperref Info: Link coloring ON on input line 45.
 \@outlinefile=\write3
 \openout3 = `Veiga_CV.out'.
 
@@ -359,96 +372,14 @@ Package hyperref Info: Link coloring ON on input line 46.
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-LaTeX Font Info:    Trying to load font information for U+msa on input line 46.
+
+Underfull \hbox (badness 10000) in paragraph at lines 45--46
+
+ []
+
+LaTeX Font Info:    Trying to load font information for U+msa on input line 51.
 (/usr/local/texlive/2024/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 46.
- (/usr/local/texlive/2024/texmf-dist/tex/latex/amsfonts/umsb.fd
-File: umsb.fd 2013/01/14 v3.01 AMS symbols B
-)
-LaTeX Font Info:    Trying to load font information for U+lasy on input line 46.
- (/usr/local/texlive/2024/texmf-dist/tex/latex/base/ulasy.fd
-File: ulasy.fd 1998/08/17 v2.2e LaTeX symbol font definitions
-)
-Overfull \hbox (30.0pt too wide) in paragraph at lines 46--46
-[] 
- []
-
-[1
-
-{/usr/local/texlive/2024/texmf-var/fonts/map/pdftex/updmap/pdftex.map}{/usr/local/texlive/2024/texmf-dist/fonts/enc/dvips/base/8r.enc}]
-LaTeX Font Info:    Trying to load font information for TS1+put on input line 190.
- (/usr/local/texlive/2024/texmf-dist/tex/latex/psnfss/ts1put.fd
-File: ts1put.fd 2001/06/04 font definitions for TS1/put.
-) [2]
-
-/Users/andreveiga/Desktop/Dropbox/git_repos/andreveiga2.github.io/Veiga_CV.tex:282: LaTeX Error: Unicode character � (U+FFFD)
-               not set up for use with LaTeX.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.282 ...mics (C), RES (C), Journees Louis-Andr�
-                                                   G�rard-Varet (C), EGRIE...
-You may provide a definition with
-\DeclareUnicodeCharacter 
-
-
-/Users/andreveiga/Desktop/Dropbox/git_repos/andreveiga2.github.io/Veiga_CV.tex:282: LaTeX Error: Unicode character � (U+FFFD)
-               not set up for use with LaTeX.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.282 ...(C), RES (C), Journees Louis-Andr� G�
-                                                  rard-Varet (C), EGRIE (C)
-You may provide a definition with
-\DeclareUnicodeCharacter 
-
-
-Overfull \hbox (3.3169pt too wide) in paragraph at lines 324--330
-[]\OT1/put/b/n/10.95 Ad-Hoc Ref-er-ee-ing: \OT1/put/m/n/10.95 AER, Econo-met-rica, JPE, QJE, ReStud, JET, ET, TE, RAND, AEJ:Micro, AEJ:Applied,
- []
-
-[3] 
-enddocument/afterlastpage: lastpage setting LastPage.
-(./Veiga_CV.aux)
- ***********
-LaTeX2e <2023-11-01> patch level 1
-L3 programming layer <2024-02-20>
- ***********
-
-
-LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
-
-
-Package rerunfilecheck Warning: File `Veiga_CV.out' has changed.
-(rerunfilecheck)                Rerun to get outlines right
-(rerunfilecheck)                or use package `bookmark'.
-
-Package rerunfilecheck Info: Checksums for `Veiga_CV.out':
-(rerunfilecheck)             Before: <no file>
-(rerunfilecheck)             After:  D41D8CD98F00B204E9800998ECF8427E;0.
-
-Package lastpage Warning: Rerun to get the references right on input line 358.
-
- ) 
-Here is how much of TeX's memory you used:
- 10210 strings out of 474116
- 156660 string characters out of 5743683
- 1940187 words of memory out of 5000000
- 32412 multiletter control sequences out of 15000+600000
- 583289 words of font info for 69 fonts, out of 8000000 for 9000
- 1141 hyphenation exceptions out of 8191
- 72i,6n,79p,646b,591s stack positions out of 10000i,1000n,20000p,200000b,200000s
-</usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/adobe/utopia/putb8a.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/adobe/utopia/putr8a.pfb>
-Output written on Veiga_CV.pdf (3 pages, 56438 bytes).
-PDF statistics:
- 54 PDF objects out of 1000 (max. 8388607)
- 42 compressed objects within 1 object stream
- 17 named destinations out of 1000 (max. 500000)
- 1 words of extra memory for PDF output out of 10000 (max. 10000000)
-
+LaTeX Font Info:    Trying to load font information for U+msb on input line 51.
+ (/usr/local/texlive/2024/texmf-dist/tex/latex/amsfo

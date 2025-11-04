@@ -4,7 +4,7 @@
 ![Andre Veiga](website_photo.jpeg)
 
 
-**Assistant Professor of Economics** <br/> 
+**Associate Professor of Economics** <br/> 
 
 I study the Industrial Organisation of healthcare, insurance and digital markets. I use theory and data to understand how individuals and firms operate in these markets, and how best to regulate them.
 

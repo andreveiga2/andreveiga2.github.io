@@ -1,51 +1,64 @@
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-% This template requires the resume.cls file to be in the same directory as the
-% .tex file. The resume.cls file provides the resume style used for structuring the
-% document.
+% Curriculum Vitae - Andre Veiga
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
-
-
-
-
-\documentclass{resume} 
-% Use the custom resume.cls style
+\documentclass[11pt,a4paper]{article}
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% Packages
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\usepackage[margin=0.75in, top=0.6in, bottom=0.6in]{geometry}
+\usepackage{utopia,amssymb,amsfonts,amsmath,latexsym,setspace}
 \usepackage{lastpage}
 \usepackage{hyperref}
-\usepackage{utopia,amssymb,amsfonts,amsmath,latexsym,setspace}
-\hypersetup{colorlinks=true, citecolor=blue, linkcolor=red, urlcolor=blue}
-\usepackage[left=0.75in, top=0.6in, right=0.75in, bottom=0.6in]{geometry} 
 \usepackage{etaremune}  % Reverse numbering for enumerate
-% Document margins
 
+\hypersetup{
+  colorlinks=true,
+  citecolor=blue,
+  linkcolor=red,
+  urlcolor=blue
+}
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-% \newcommand{\tab}[1]{\hspace{.2667\textwidth}\rlap{#1}}
-% \newcommand{\itab}[1]{\hspace{0em}\rlap{#1}}
+% Formatting
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\setlength{\parindent}{0pt}
+\setlength{\parskip}{0.3em}
 
-\name{Andre Veiga} 
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% Custom commands to emulate resume.cls
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
+% Name at top
+\newcommand{\name}[1]{%
+  \begin{center}
+    {\Large\bfseries #1}
+  \end{center}
+  \vspace{-0.8em}
+}
 
+% Section environment similar to rSection
+\newenvironment{rSection}[1]{%
+  \vspace{0.5em}%
+  \noindent\textbf{\large #1}%
+  \vspace{0.3em}\par
+  \hrule
+  \vspace{0.5em}
+}{%
+  \vspace{0.8em}
+}
 
-
-
-
-
-%%%%%% HEADER
-% \usepackage{fancyhdr}	% package needed for header
-% \pagestyle{empty}
-% \fancyhf{} % sets both header and footer to nothing
-% \renewcommand{\headrulewidth}{0pt}		% remove line under header
-% \rhead{ \small{ \textrm{\textit{Updated: \today }}}}		 % header
-% \thispagestyle{fancy} % puts header just on first page
-
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% Document
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 \begin{document}
 
+\name{Andre Veiga}
+
 \begin{center}
-\vspace{-2em}
+\vspace{-1em}
 Imperial College Business School  \\ 
 \href{http://www.andreveiga.com}{www.andreveiga.com} 
 \quad $||$ \quad 
@@ -53,91 +66,45 @@ a.veiga@imperial.ac.uk
 \vspace{0.5em}
 \end{center}
 
-
-
-
 %%%%%%%%%%%%%%%  Employment
 \begin{rSection}{Employment}
-
-	\textbf{Imperial College} \\ 
-	Associate Professor of Economics, Imperial College Business School \hfill {2025-present} 
-\\ Assistant Professor of Economics, Imperial College Business School \hfill {2017-2025} 
-
-\textbf{University of Oxford} \\ 
-\\ Career Development Fellow, Somerville College, University of Oxford \hfill {2016-2017} 
-\\ Postdoctoral Research Fellow, Nuffield College, University of Oxford \hfill {2013-2016} 	
-	
+Associate Professor of Economics, Imperial College Business School \hfill 2025--present \\ 
+Assistant Professor of Economics, Imperial College Business School \hfill 2017--2025 \\
+Career Development Fellow, Somerville College, University of Oxford \hfill 2016--2017 \\ 
+Postdoctoral Research Fellow, Nuffield College, University of Oxford \hfill 2013--2016
 \end{rSection}
-
-
-
-
-
-
-
-
-
-
 
 %%%%%%%%%%%%%%%  Education
 \begin{rSection}{Education}
-
-PhD in Economics, Toulouse School of Economics \hfill {2013} 
-\\ BA, Public Policy \& International Affairs, Princeton University \hfill {2007}
-\\ IB, Mahindra United World College of India \hfill{2003}
-
+PhD in Economics, Toulouse School of Economics \hfill 2013 \\ 
+BA, Public Policy \& International Affairs, Princeton University \hfill 2007 \\
+IB, Mahindra United World College of India \hfill 2003
 \end{rSection}
 
-
-
-
-
-
-
-
-%%%%%%%%%%%%%%%  Affiliations
+%%%%%%%%%%%%%%%  Memberships and Affiliations
 \begin{rSection}{Memberships and Affiliations}
-
-CESifo, Research Associate \hfill {2017-present} \\ 
-Risk Theory Society, Member \hfill {2017-present} \\ 
-UK Practitioner Network for the Economics of Digitisation, Researcher \hfill {2023-present} \\ 
-Institute for Fiscal Studies (IFS), Research Affiliate \hfill {2024-present}
-	
+CESifo, Research Associate \hfill 2017--present \\ 
+Risk Theory Society, Member \hfill 2017--present \\ 
+UK Practitioner Network for the Economics of Digitisation, Researcher \hfill 2023--present \\ 
+Institute for Fiscal Studies (IFS), Research Affiliate \hfill 2024--present
 \end{rSection}
 
-
-
-
-
-
-
-
-
-%%%%%%%%%%%%%%  Interests
+%%%%%%%%%%%%%%  Research Interests
 \begin{rSection}{Research Interests}
-
 Industrial Organisation, Healthcare, Insurance, Digital Markets
-	
 \end{rSection}
 
-
-
-
-
-
-
-
-
-%%%%%%%%%%%%%%%  pubs
+%%%%%%%%%%%%%%%  Publications
 \begin{rSection}{Publications}
-
 \begin{etaremune}
 
 \item Optimal Contract Regulation in Selection Markets \\
-with John Levy\\ \textbf{American Economic Journal: Microeconomics}, 2025
+with John Levy \\
+\textbf{American Economic Journal: Microeconomics}, 2025
 
 \item Attention Spillovers from News to Ads: Evidence from an Eye-Tracking Experiment \\ 
-with Andrey Simonov and Tommaso Valletti\\ \textbf{Journal of Marketing Research}, 2024
+with Andrey Simonov and Tommaso Valletti \\
+\textbf{Journal of Marketing Research}, 2024
 
 \item Price Discrimination in Markets for Lemons \\ 
 \textbf{Review of Economics and Statistics}, 2023 \\
@@ -147,196 +114,129 @@ Shortlisted for SCOR/EGRIE Young Economist Best Paper Award 2020
 with Gary Biglaiser and Jacques Cremer \\ 
 \textbf{RAND Journal of Economics}, 2022
 
-\item Competitive Equilibrium in Screening Markets with Unbounded Types\\ 
+\item Competitive Equilibrium in Screening Markets with Unbounded Types \\ 
 with John Levy \\
-\textbf{Journal of Economic Theory}, 2021
-\\ Shortlisted for SCOR/EGRIE Young Economist Best Paper Award 2018
+\textbf{Journal of Economic Theory}, 2021 \\
+Shortlisted for SCOR/EGRIE Young Economist Best Paper Award 2018
 
-\item Equilibrium Profits in Perfectly Competitive Screening Markets\\
+\item Equilibrium Profits in Perfectly Competitive Screening Markets \\
 with John Levy \\
 \textbf{Games \& Economic Behavior}, 2020
 
-\item Social Media, News Media and the Stock Market\\ 
+\item Social Media, News Media and the Stock Market \\ 
 with Peiran Jiao and Ansgar Walther \\
 \textbf{Journal of Economic Behaviour \& Organization}, 2020
 
 \item A Note on How to Sell a Network Good \\
 \textbf{International Journal of Industrial Organization}, 2018
 
-\item Multidimensional Platform Design\\ 
+\item Multidimensional Platform Design \\ 
 with Alexander White and E. Glen Weyl \\
 \textbf{American Economic Review: Papers and Proceedings}, 2017
 
-\item Pricing Institutions and the Welfare Cost of Adverse Selection\\
- with E. Glen Weyl \\
+\item Pricing Institutions and the Welfare Cost of Adverse Selection \\
+with E. Glen Weyl \\
 \textbf{American Economic Journal: Microeconomics}, 2017
 
-\item Product Design in Selection Markets\\
- with E. Glen Weyl \\ 
+\item Product Design in Selection Markets \\
+with E. Glen Weyl \\ 
 \textbf{Quarterly Journal of Economics}, 2016
 	
 \end{etaremune}
-
-
-
-
-
-
 \end{rSection}
-
-
-
-
-
-
-
-
-
 
 %%%%%%%%%%%%%%  Working Papers
 \begin{rSection}{Working Papers}
-
 \begin{itemize}
-	\item Information and Disparities in Health Care Quality: Evidence from GP Choice in England \\ 
-	with Zach Brown, Christopher Hansman and Jordan Keener
+  \item Information and Disparities in Health Care Quality: Evidence from GP Choice in England \\ 
+  with Zach Brown, Christopher Hansman and Jordan Keener
 
-	\item Designing Incentives for Multitasking Agents: Evidence from Payments to English Physicians\\ 
-	with Filippo Paternollo and Pietro Tebaldi
-	
-	\item Extensive Attention, Intensive Attention, and the Origins of Random Choice\\ 
-	with Irfan Khan, Ian Krajbich, Collin Raymond, and Savitar Sundaresan
-	
-	\item Information Design and Screening \\ 
-	with Casey Rothschild, Daniel Quigley, Niklas Haeusle, Yanwei Sun
+  \item Designing Incentives for Multitasking Agents: Evidence from Payments to English Physicians \\ 
+  with Filippo Paternollo and Pietro Tebaldi
 
+  \item Extensive Attention, Intensive Attention, and the Origins of Random Choice \\ 
+  with Irfan Khan, Ian Krajbich, Collin Raymond, and Savitar Sundaresan
+
+  \item Information Design and Screening \\ 
+  with Casey Rothschild, Daniel Quigley, Niklas Haeusle, Yanwei Sun
 \end{itemize}
-
-
-
-
 \end{rSection}
 
-
-
-
-
-
-
-
-
-
-%%%%% non peer reviews pubs
-
+%%%%% Non-refereed publications
 \begin{rSection}{Non-Refereed Publications}
-	
 \begin{etaremune}
 
-\item Economic Democracy and Market Power\\
+\item Economic Democracy and Market Power \\ 
 with Zoe Hitzig, Michelle Meagher, and Glen Weyl \\ 
 \textbf{CPI Antitrust Chronicle}, 2020
 
-
-\item Competition Policy in Selection Markets\\ 
+\item Competition Policy in Selection Markets \\ 
 with Neale Mahoney and E. Glen Weyl \\ 
 \textbf{CPI Antitrust Chronicle}, 2014
 	
-		
 \end{etaremune}
-
-
 \end{rSection}
-
-
-
-%%%%%%%%%%%%%%%  Affiliations
-
 
 %%%%%%%%%%%%%%  Grants
 \begin{rSection}{Grants}
-
-Net Institute Summer Research Grant \hfill {2020}
-\\ British Academy Leverhulme Small Research Grant \hfill 2020
-\\ Net Institute Summer Research Grant \hfill {2013}
-\\ Net Institute Summer Research Grant \hfill {2011}
-\\ Fundacao para a Ciencia e a Tecnologia (FCT), PhD scholarship \hfill {2010-2013}
-\\ Fondation Jean Jacques Laffont, M2 Masters scholarship \hfill 2008-2009
-
+Net Institute Summer Research Grant \hfill 2020 \\
+British Academy Leverhulme Small Research Grant \hfill 2020 \\
+Net Institute Summer Research Grant \hfill 2013 \\
+Net Institute Summer Research Grant \hfill 2011 \\
+Fundacao para a Ciencia e a Tecnologia (FCT), PhD scholarship \hfill 2010--2013 \\
+Fondation Jean Jacques Laffont, M2 Masters scholarship \hfill 2008--2009
 \end{rSection}
 
-
-
-%%%%%%%%%%%%%%  Awards
+%%%%%%%%%%%%%%  Honours & Awards
 \begin{rSection}{Honours \& Awards}
-
-Shortlisted for SCOR/EGRIE Young Economist Best Paper Award \hfill 2020
-\\ Shortlisted for SCOR/EGRIE Young Economist Best Paper Award \hfill 2018
-\\Imperial College Business School Teaching Excellence Award for Innovation in Teaching \hfill 2018
-\\ CRESSE Young Researcher Scholarship \hfill {2012}
-\\ ANACOM Award for research on ICTs \hfill {2011}
-\\ Price Theory Scholar, University of Chicago, Becker Center for Price Theory \hfill {2011}
-
+Shortlisted for SCOR/EGRIE Young Economist Best Paper Award \hfill 2020 \\
+Shortlisted for SCOR/EGRIE Young Economist Best Paper Award \hfill 2018 \\
+Imperial College Business School Teaching Excellence Award for Innovation in Teaching \hfill 2018 \\
+CRESSE Young Researcher Scholarship \hfill 2012 \\
+ANACOM Award for research on ICTs \hfill 2011 \\
+Price Theory Scholar, University of Chicago, Becker Center for Price Theory \hfill 2011
 \end{rSection}
 
-
-
-%%%%%%%%%%%%%%  presentations - maybe split into 2 sections, conferences and seminars? although it looks less impressive that way?
-\begin{rSection}{Presentations (including scheduled) \tiny{(C) denotes conferences}}
-
-\textbf{2025:} Paris Mines, Amazon, Edinburgh, TSE Healthcare Conference (C)
-
-\textbf{2024:} Essex University, University of Texas at Austin, NHH Bergen, BI Oslo, Bristol IO workshop (C),
-
-\textbf{2023:} HEC,  Risk Theory Society Seminar (C), CEPR-TSE Health (C), EGRIE (C)
-
-\textbf{2022:} Manheim University, UC Irvine
-
-\textbf{2021:} VIOS Seminar, CERNA Mines-ParisTech, CesIfo Digital Economics (C)
-
-\textbf{2020:} National University of Singapore
-
-\textbf{2019:} Glasgow University, CERGE-EI (Prague), Helsinki University, BGSE Summer Forum IO (C)
-
-\textbf{2018:} LMU Munich, Telecom ParisTech, Surrey University, Nottingham Business School, CesIfo Applied Microeconomics (C), RES (C), Journees Louis-Andre Gerard-Varet (C), EGRIE (C)
-
+%%%%%%%%%%%%%%  Presentations
+\begin{rSection}{Presentations (including scheduled) \normalsize\;(C denotes conferences)}
+\textbf{2025:} Paris Mines, Amazon, Edinburgh, TSE Healthcare Conference (C) \\[0.2em]
+\textbf{2024:} Essex University, University of Texas at Austin, NHH Bergen, BI Oslo, Bristol IO workshop (C) \\[0.2em]
+\textbf{2023:} HEC, Risk Theory Society Seminar (C), CEPR-TSE Health (C), EGRIE (C) \\[0.2em]
+\textbf{2022:} Manheim University, UC Irvine \\[0.2em]
+\textbf{2021:} VIOS Seminar, CERNA Mines-ParisTech, CesIfo Digital Economics (C) \\[0.2em]
+\textbf{2020:} National University of Singapore \\[0.2em]
+\textbf{2019:} Glasgow University, CERGE-EI (Prague), Helsinki University, BGSE Summer Forum IO (C) \\[0.2em]
+\textbf{2018:} LMU Munich, Telecom ParisTech, Surrey University, Nottingham Business School, CesIfo Applied Microeconomics (C), RES (C), Journees Louis-Andre Gerard-Varet (C), EGRIE (C) \\[0.2em]
 \textbf{2017:} University of South California, Georgetown University, Rochester Business School, Munich LMU, Imperial College London, Universite Libre de Bruxelles, Queen Mary University London, Essex University, Sussex University, Bath University, CEPR-JIE (C), Risk Theory Society Seminar (C), Barcelona IO Summer Forum (C) 
-
 \end{rSection}
 
-
-%%%%%%%%%%%%%%  teaching
+%%%%%%%%%%%%%%  Teaching
 \begin{rSection}{Teaching}
 
 \textbf{Imperial College} \\ 
-Digital Businesses and Marketplaces (MSc) \hfill {2017-present} \\ 
-Business Economics (Masters) \hfill {2024-present} \\ 
-Business Economics (Undergraduate) \hfill {2017-2023} \\  
-Microeconomics (PhD) \hfill {2019-2022}
+Digital Businesses and Marketplaces (MSc) \hfill 2017--present \\ 
+Business Economics (Masters) \hfill 2024--present \\ 
+Business Economics (Undergraduate) \hfill 2017--2023 \\  
+Microeconomics (PhD) \hfill 2019--2022
+
+\vspace{0.4em}
 
 \textbf{Oxford University} \\
 Core Microeconomics (Undergraduate) \\ 
 Quantitative Economics (Undergraduate) \\ 
 Economics of Industry (Undergraduate) \\ 
-Topics in Selection and Network Markets (Phd) \\ 
-Microeconomic Theory (Phd)
-
+Topics in Selection and Network Markets (PhD) \\ 
+Microeconomic Theory (PhD)
 \end{rSection}
-
-
-
-
 
 %%%%%%%%%%%%%%  Advising
 \begin{rSection}{Advising}
-	Alessio Piccolo (Oxford M.Phil) \hfill {2014-2015} \\
-	Jiajia Zhang (Imperial PhD) \hfill {2022-present} \\
-	Yancheng Lai (Imperial PhD) \hfill {2023-present} \\
-			
+Alessio Piccolo (Oxford M.Phil) \hfill 2014--2015 \\
+Jiajia Zhang (Imperial PhD) \hfill 2022--present \\
+Yancheng Lai (Imperial PhD) \hfill 2023--present
 \end{rSection}
 
-
-
-
-%%%%%%%%%%%%%%  REFEREEING - add here refereeing for grants when it happens
+%%%%%%%%%%%%%%  Service
 \begin{rSection}{Service}
 
 \textbf{Ad-Hoc Refereeing:} AER, Econometrica, JPE, QJE, ReStud, 
@@ -346,145 +246,29 @@ Review of Industrial Organization, Management Science,
 Journal of Risk and Insurance, Oxford Bulletin of Economics and Statistics, 
 Journal of Mathematical Economics, Economic Analysis and Policy
 
+\vspace{0.4em}
 
-\textbf{Internal Committees:} Organizer of EPP Department Seminar (2018-2024), 
-Organizer of EPP Internal Seminar  (2022-2024), 
+\textbf{Internal Committees:} Organizer of EPP Department Seminar (2018--2024), 
+Organizer of EPP Internal Seminar (2022--2024), 
 Faculty Recruitment Committee (2018, 2022), 
 EDI Task Force on Inclusive Identity (2024)
 
+\vspace{0.4em}
+
 \textbf{Conference Programme Committees:} 16th Annual Meeting of The Portuguese Economic Journal (2023), 
-Meeting of the European Association of Young Economists (2023-2025), 
+Meeting of the European Association of Young Economists (2023--2025), 
 US-EU Health Economics Conference (2018)
-	
 \end{rSection}
-
-
-
 
 %%%%%%%%%%%%% Personal
 \begin{rSection}{Personal}
-
-Born: 6 June 1983
-\\ Portuguese Citizen, UK Permanent Resident
-
+Born: 6 June 1983 \\
+Portuguese Citizen, UK Permanent Resident
 \end{rSection}
-
 
 \vspace{1em}
 \begin{center}
-\scriptsize{Last Updated: \today}	
+\scriptsize{Last Updated: \today}
 \end{center}
-
-\end{document}
-
-
-
-
-
-
-
-
-
-
-
-
-
-%----------------------------------------------------------------------------------------
-%	TECHNICAL STRENGTHS SECTION
-%----------------------------------------------------------------------------------------
-
-\begin{rSection}{Technical Strengths}
-
-\begin{tabular}{ @{} >{\bfseries}l @{\hspace{6ex}} l }
-Computer Languages &  C/C++, MATLAB \\
-Software \& Tools & HTML, LaTeX, Excel, Gerris, Mathematica, ASPEN Plus, Tecplot \\
-\end{tabular}
-
-\end{rSection}
-
-%----------------------------------------------------------------------------------------
-%	WORK EXPERIENCE SECTION
-%----------------------------------------------------------------------------------------
-
-\begin{rSection}{Experience}
-
-\begin{rSubsection}{IIT Bombay}{May 2015 - July 2015}{Undergraduate Research}{}
-\item Employed CFD software Gerris to carry out 20 simulations and analysed different shapes during oscillation
-\item Derived Lamb’s dispersion relation for free oscillation and applied it to calculate strength of different modes
-\item Analysed simulated data to obtain velocity field and compared it with theoretical data to obtain results
-\end{rSubsection}
-
-
-%------------------------------------------------
-
-\begin{rSubsection}{IIT Kanpur}{January 2015 - April 2015}{Manufacturing Process Project - Dragon Model}{}
-\item Worked in a team of six people and came up with a model of Dragon with movable wings 
-\item Designed and fabricated a skeleton model of dragon with movable wings from scratch in lab employing processes of welding, brazing and casting
-\item Received Certificate of Appreciation among 40 projects for its artwork and detailing
-\end{rSubsection}
-
-\end{rSection}
-
-
-%	EXAMPLE SECTION
-%----------------------------------------------------------------------------------------
-
-\begin{rSection}{Academic Achievements} \itemsep -2pt
-\item Ranked in National Top 0.2\% (amongst 1,200,000 candidates) in JEE Mains 2013 and Top 1\% (amongst 150,000 candidates) in IIT-JEE Advanced 2013
-\item Ranked in the State-wise Top 1\% (amongst 70,000 candidates) in State level Engineering competitive Exam (MP PET)
-\item Stood first in MBD Talent Search Exam conducted by state government, competing against more than 1000 participants  
-\end{rSection}
-
-%----------------------------------------------------------------------------------------
-\begin{rSection}{Relevant Courses}
-\itab{\textbf{Core Courses}} \tab{}  \tab{\textbf{Other Courses}}
-\\ \itab{Fluid Mechanics \& its applications } \tab{}  \tab{Computational Methods in Engineering}
-\\ \itab{Thermodynamics} \tab{}  \tab{Fundamental of Computing} 
-\\ \itab{Heat Transfer \& its applications} \tab{}  \tab{Probability and Statistics} 
-\\ \itab{Mass Transfer \& its applications} \tab{} \tab{Calculus \& Linear Algebra}
-\\ \itab{Transport Phenomena (ongoing)} \tab{} \tab{Introduction to Mechanics}
-% \\ \itab{Process Control (ongoing)} \tab{} \tab{Electrodynamics}
-
-\end{rSection}
-
-\begin{rSection}{POSITION OF RESPONSIBILITY}
-
-\begin{rSubsection}{Techkriti 2015 - Technical and entrepreneurial Festival }{August 2014 - March 2015}{Public Relations}{IIT Kanpur}
-\item Spearheaded a 2-tier team of 40 people to successfully conduct professional shows, exhibitions and talks
-\item Organized talks in Techkriti by eminent personalities like Dr K. Radhakrishnan (Chairman, ISRO), Peter Schultz (Co-inventor, Fibre optics) and David Hilmers (NASA Astronaut) with more than 1000 attendees
-\item Successfully organized Auto expo, Space expo and Defence expo together for the first time in Techkriti
-\item Promoted awareness through social campaigns like Make a wish, Adopt a tree and Teen Suicide Prevention
-\end{rSubsection}
-
-%------------------------------------------------
-
-\begin{rSubsection}{Students' Placement Office}{April 2015 - Present}{Internship Coordinator}{IIT Kanpur}
-\item Coordinating with team of 20 students responsible for facilitating internship proceedings of 650 students involving 150 companies
- \item Responsible for developing contacts with corporate recruitment teams of several firms for internship and placements 
- \item Organized sessions on Personality Development and Career Awareness by esteemed alumni for over 1600 students
-\end{rSubsection}
-
-%------------------------------------------------
-
-\begin{rSubsection}{Hall Executive Committee }{April 2014 - Nov 2014}{Secretary}{IIT Kanpur}
-\item Coordinated with 12 members to led a team of 200 students in inter hall technical, cultural and sports competition of institute 
-\item Planned an annual budget of ₹ 2 lakhs for proper functioning of hostel with more than 400 residents
-\end{rSubsection}
-
-\end{rSection}
-
-%----------------------------------------------------------------------------------------
-\begin{rSection}{Extra-Cirrucular} \itemsep -3pt
-\item Secured Gold in M.P. State Throw Ball competition and represented district in State Hand Ball competition
-\item Represented Institute in Udghosh’13 and secured second prize in Kho-Kho intramurals
-\item Secured second prize in Dance Drama competition in Galaxy’14, inter hall cultural competition of IIT Kanpur
-\item Won second prize in Electromania, circuit game designing competition in Takneek’13, inter hall technical festival of IIT Kanpur
- % \item Member, Athletics Team, IIT Kanpur. Attended Summer Sport Camp as a long jumper.
-%\item Trained and disciplined in National Cadet Corps (NCC), IIT Kanpur for a year.
- %\item  Participated in Vijyoshi Camp 2012 organized at Indian Institute of Science, Bangalore.
- %\item Won 2nd position in Kho-Kho in Intramurals conducted by Physical Education Section, IIT Kanpur.
- %\item Pursued French as second language during secondary school from Grade 6 to Grade 10. Also participated in French Song Competition and French G.K. Quiz in Class 10th. %
-
-\end{rSection}
 
 \end{document}

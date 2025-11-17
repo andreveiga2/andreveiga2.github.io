@@ -1,7 +1,7 @@
 # Andre Veiga
 
 
-![Andre Veiga](website_photo.jpeg)
+![Andre Veiga](website_photo.jpg)
 
 
 **Associate Professor of Economics** <br/> 

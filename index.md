@@ -1,29 +1,29 @@
 # Andre Veiga
 
 
-![Andre Veiga](website_photo.jpg)
+<div style="display: flex; align-items: flex-start; gap: 20px;">
+  <img src="website_photo.jpg" alt="Andre Veiga" style="width: 240px; height: auto; flex-shrink: 0;">
+  
+  <div>
+  <br/>
+    <strong>Associate Professor of Economics</strong> <br/> 
+    I study the Industrial Organisation of healthcare, insurance and digital markets. I use theory and data to understand how individuals and firms operate in these markets, and how best to regulate them.
+    <br/><br/><br/>
+    <strong>Contact:</strong> <br/>
+    Imperial College Business School <br/>
+    South Kensington Campus, London SW12AZ, UK <br/>
+    Phone: +44 (0)20 7594 7957 <br/>
+    Email: <a.veiga@imperial.ac.uk> <br/>
+    <a href="Veiga_CV.pdf" target="_blank">CV</a> 
+    |
+    <a href="https://scholar.google.com/citations?user=C-gmx8QAAAAJ&hl=en" target="_blank"> Google Scholar</a> 
+    |
+    <a href="https://www.imperial.ac.uk/people/a.veiga" target="_blank"> Imperial College Page</a>
+  </div>
+</div>
 
 
-**Associate Professor of Economics** <br/> 
-
-I study the Industrial Organisation of healthcare, insurance and digital markets. I use theory and data to understand how individuals and firms operate in these markets, and how best to regulate them.
-
-
-**Contact:**  <br/>
-Imperial College Business School  <br/>
-South Kensington Campus, London SW12AZ, UK <br/>
-Phone: +44 (0)20 7594 7957 <br/>
-Email: <a.veiga@imperial.ac.uk> <br/>
-
-<a href="Veiga_CV.pdf" target="_blank">CV</a> 
-|
-<a href="https://scholar.google.com/citations?user=C-gmx8QAAAAJ&hl=en" target="_blank"> Google Scholar</a> 
-|
-<a href="https://www.imperial.ac.uk/people/a.veiga" target="_blank"> Imperial College Page</a>
-
-
-
-
+<br/>
 
 ## Working Papers
 

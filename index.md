@@ -28,10 +28,13 @@
 ## Working Papers
 
 
-[Information and Disparities in Health Care Quality: Evidence from GP Choice in England](https://ssrn.com/abstract=4393373), with Zach Brown, Chris Hansman, and Jordan Keener <br/>
+[Information and Disparities in Health Care Quality: Evidence from GP Choice in England](https://ssrn.com/abstract=4393373) <br/> with Zach Brown, Chris Hansman, and Jordan Keener <br/>
 Media: [Vox EU](https://cepr.org/voxeu/columns/why-high-income-patients-go-higher-quality-doctors) | [Forbes](https://www.forbes.com/sites/imperialinsights/2024/07/19/unequal-access-to-information-is-the-hidden-barrier-to-free-healthcare/)<br/>
 Reject & Resubmit at **American Economic Review**
 
+
+
+[Optimal Privacy with Coarse Labels in Screening Markets](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5863302) <br/> with Niklas Häusle, Daniel Quigley, Casey Rothschild and Yanwei Sun <br/>
 
 
 
@@ -47,11 +50,12 @@ Reject & Resubmit at **American Economic Review**
 
 
 
-[Optimal Contract Regulation in Selection Markets](https://www.aeaweb.org/articles?id=10.1257/mic.20230164&&from=f), with John Levy <br/>
+[Optimal Contract Regulation in Selection Markets](https://www.aeaweb.org/articles?id=10.1257/mic.20230164&&from=f) <br/>
+ with John Levy <br/>
 **AEJ: Micro**, 2024 <br/>
 [SSRN](http://dx.doi.org/10.2139/ssrn.4029945) | [Code](code_2024_AEJMicro.zip)
 
-[Attention Spillovers from News to Ads: Evidence from an Eye-Tracking Experiment](https://doi.org/10.1177/00222437241256900), with Tommaso Valletti and Andrey Simonov <br/>
+[Attention Spillovers from News to Ads: Evidence from an Eye-Tracking Experiment](https://doi.org/10.1177/00222437241256900) <br/> with Tommaso Valletti and Andrey Simonov <br/>
 **Journal of Marketing Research**, 2024 <br/>
 Media: [Faculty.net](https://faculti.net/attention-recall-and-purchase/) | [Vox EU](https://cepr.org/voxeu/columns/advertiser-block-lists-threat-media-integrity)
 
@@ -64,7 +68,8 @@ Shortlisted for SCOR/EGRIE Young Economist Best Paper Award 2020   <br/>
 [Code](code_2023_REStat.zip)
 
 
-[Should I stay or should I go? Migrating away from an incumbent platform](http://dx.doi.org/10.1111/1756-2171.12418), with Gary Biglaiser and Jacques Cremer  <br/>
+[Should I stay or should I go? Migrating away from an incumbent platform](http://dx.doi.org/10.1111/1756-2171.12418)
+<br/> with Gary Biglaiser and Jacques Cremer  <br/>
 **RAND Journal of Economics**, 2022 <br/>
 Shortlisted for Best paper in Economics, 2023 Antitrust Writing Awards <br/>
 Media: [Faculty.net](https://faculti.net/should-i-stay-or-should-i-go-migrating-away-from-an-incumbent-platform/) | 
@@ -72,19 +77,22 @@ Media: [Faculty.net](https://faculti.net/should-i-stay-or-should-i-go-migrating-
 [Promarket](https://www.promarket.org/2023/02/16/user-hesitancy-increases-online-platforms-incumbency-advantage/)
 
 
-[Competitive Equilibrium in Screening Markets with Unbounded Types](https://doi.org/10.1016/j.jet.2021.105198), with John Levy <br/>
+[Competitive Equilibrium in Screening Markets with Unbounded Types](https://doi.org/10.1016/j.jet.2021.105198)<br/>
+ with John Levy <br/>
 **Journal of Economic Theory**, 2021 <br/>
 Shortlisted for SCOR/EGRIE Young Economist Best Paper Award 2018 <br/>
 [Code](code_2021_JET.zip)
 
 
-[On the Existence of Positive Equilibrium Profits in Competitive Screening Markets](https://www.sciencedirect.com/science/article/pii/S0899825620301093), with John Levy <br/>
+[On the Existence of Positive Equilibrium Profits in Competitive Screening Markets](https://www.sciencedirect.com/science/article/pii/S0899825620301093) 
+<br/> with John Levy <br/>
 **Games & Economic Behavior**, 2020
 
 
 
 
-[Social Media, News Media and the Stock Market](https://doi.org/10.1016/j.jebo.2020.03.002), with Peiran Jiao and Ansgar Walther <br/>
+[Social Media, News Media and the Stock Market](https://doi.org/10.1016/j.jebo.2020.03.002)
+<br/> with Peiran Jiao and Ansgar Walther <br/>
 **Journal of Economic Behaviour & Organization**, 2020 <br/>
 Media:
 [Baron's](https://www.barrons.com/articles/social-media-Media-of-stocks-can-be-misleading-1480137067) |
@@ -103,14 +111,16 @@ Media:
 
 
 
-[Pricing Institutions and the Welfare Cost of Adverse Selection](https://www.aeaweb.org/articles?id=10.1257/mic.20150295), with E. Glen Weyl <br/>
+[Pricing Institutions and the Welfare Cost of Adverse Selection](https://www.aeaweb.org/articles?id=10.1257/mic.20150295)
+<br/> with E. Glen Weyl <br/>
 **American Economic Journal: Microeconomics**, 2017 <br/>
 [Code](code_2017_AEJ.zip)
 
 
 
 
-[Multidimensional Platform Design](https://www.aeaweb.org/conference/2017/preliminary/paper/yd8Y9it3), with Alexander White and E.Glen Weyl <br/>
+[Multidimensional Platform Design](https://www.aeaweb.org/conference/2017/preliminary/paper/yd8Y9it3)
+<br/> with Alexander White and E.Glen Weyl <br/>
 **American Economic Review: Papers and Proceedings**, 2017 <br/>
 
 
@@ -119,7 +129,8 @@ Media:
 
 
 
-[Product Design in Selection Markets](https://academic.oup.com/qje/article/131/2/1007/2607142), with E. Glen Weyl <br/>
+[Product Design in Selection Markets](https://academic.oup.com/qje/article/131/2/1007/2607142)
+<br/> with E. Glen Weyl <br/>
 **Quarterly Journal of Economics**, 2016 <br/>
 [Code](code_2016_QJE.zip)
 
@@ -150,11 +161,13 @@ Media:
 ## Non-Refereed Publications
 
 
-[Economic Democracy and Market Power](https://www.competitionpolicyinternational.com/economic-democracy-and-market-power/), with  Zoe Hitzig, Michelle Meagher, and Glen Weyl <br/>
+[Economic Democracy and Market Power](https://www.competitionpolicyinternational.com/economic-democracy-and-market-power/)
+<br/> with  Zoe Hitzig, Michelle Meagher, and Glen Weyl <br/>
 **CPI Antitrust Chronicle**, 2020
 
 
-[Competition Policy in Selection Markets](https://www.competitionpolicyinternational.com/competition-policy-in-selection-markets/), with Neale Mahoney and E. Glen Weyl <br/>
+[Competition Policy in Selection Markets](https://www.competitionpolicyinternational.com/competition-policy-in-selection-markets/)
+<br/> with Neale Mahoney and E. Glen Weyl <br/>
 **CPI Antitrust Chronicle**, 2014
 
 

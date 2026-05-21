@@ -646,7 +646,11 @@ INPUT /usr/local/texlive/2023/texmf-dist/tex/latex/psnfss/ts1put.fd
 INPUT /usr/local/texlive/2023/texmf-dist/tex/latex/psnfss/ts1put.fd
 INPUT /usr/local/texlive/2023/texmf-dist/tex/latex/psnfss/ts1put.fd
 INPUT /usr/local/texlive/2023/texmf-dist/fonts/tfm/adobe/utopia/putr8c.tfm
+INPUT /usr/local/texlive/2023/texmf-dist/fonts/tfm/adobe/utopia/putb7t.tfm
+INPUT /usr/local/texlive/2023/texmf-dist/fonts/tfm/adobe/utopia/putr7t.tfm
 INPUT /usr/local/texlive/2023/texmf-dist/fonts/vf/adobe/utopia/putr8c.vf
+INPUT /usr/local/texlive/2023/texmf-dist/fonts/vf/adobe/utopia/putr7t.vf
+INPUT /usr/local/texlive/2023/texmf-dist/fonts/tfm/adobe/utopia/putr8r.tfm
 INPUT /usr/local/texlive/2023/texmf-dist/fonts/tfm/adobe/utopia/putr7t.tfm
 INPUT /usr/local/texlive/2023/texmf-dist/fonts/vf/adobe/utopia/putr7t.vf
 INPUT /usr/local/texlive/2023/texmf-dist/fonts/tfm/adobe/utopia/putr8r.tfm

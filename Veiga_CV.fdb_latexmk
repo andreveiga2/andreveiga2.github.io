@@ -1,6 +1,6 @@
 # Fdb version 4
-["pdflatex"] 1777373527 "/Users/andreveiga/Desktop/Dropbox/git_repos/website/Veiga_CV.tex" "Veiga_CV.pdf" "Veiga_CV" 1777373528 0
-  "/Users/andreveiga/Desktop/Dropbox/git_repos/website/Veiga_CV.tex" 1777373527 9694 2119b2849a06532f569445699b69ab7d ""
+["pdflatex"] 1777376128 "/Users/andreveiga/Desktop/Dropbox/git_repos/website/Veiga_CV.tex" "Veiga_CV.pdf" "Veiga_CV" 1777376129 0
+  "/Users/andreveiga/Desktop/Dropbox/git_repos/website/Veiga_CV.tex" 1777376128 9700 7ff0ed2c87a49a639a8ddfbf0210798f ""
   "/usr/local/texlive/2023/texmf-dist/fonts/enc/dvips/base/8r.enc" 1165713224 4850 80dc9bab7f31fb78a000ccfed0e27cab ""
   "/usr/local/texlive/2023/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/local/texlive/2023/texmf-dist/fonts/tfm/adobe/utopia/putb7t.tfm" 1136768653 5064 5bd9181f6ca2ab59c1725704f3eb746d ""
@@ -99,9 +99,9 @@
   "/usr/local/texlive/2023/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1681382768 4623355 b8cad38412faebe1ce5b780a45db67bd ""
   "/usr/local/texlive/2023/texmf-var/web2c/pdftex/pdflatex.fmt" 1681382705 7883454 50ac2e84202944b5b314de25c99a4ef9 ""
   "/usr/local/texlive/2023/texmf.cnf" 1678822455 577 1b2b1af17af2508fb20dd85783af4050 ""
-  "Veiga_CV.aux" 1777373528 693 b064747de558158391406a1e559f18b8 "pdflatex"
-  "Veiga_CV.out" 1777373528 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
-  "Veiga_CV.tex" 1777373527 9694 2119b2849a06532f569445699b69ab7d ""
+  "Veiga_CV.aux" 1777376129 693 b064747de558158391406a1e559f18b8 "pdflatex"
+  "Veiga_CV.out" 1777376129 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
+  "Veiga_CV.tex" 1777376128 9700 7ff0ed2c87a49a639a8ddfbf0210798f ""
   (generated)
   "Veiga_CV.aux"
   "Veiga_CV.log"

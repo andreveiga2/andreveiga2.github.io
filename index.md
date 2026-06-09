@@ -38,6 +38,7 @@ Reject & Resubmit at **American Economic Review**
 
 
 
+[Information Design in Selection Markets: A Bounding Result](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6907880) <br/> with Niklas Häusle, Daniel Quigley, Casey Rothschild and Yanwei Sun <br/>
 
 
 

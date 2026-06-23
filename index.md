@@ -28,17 +28,25 @@
 ## Working Papers
 
 
-[Information and Disparities in Health Care Quality: Evidence from GP Choice in England](https://ssrn.com/abstract=4393373) <br/> with Zach Brown, Chris Hansman, and Jordan Keener <br/>
-Media: [Vox EU](https://cepr.org/voxeu/columns/why-high-income-patients-go-higher-quality-doctors) | [Forbes](https://www.forbes.com/sites/imperialinsights/2024/07/19/unequal-access-to-information-is-the-hidden-barrier-to-free-healthcare/)<br/>
+[Information and Disparities in Health Care Quality: Evidence from GP Choice in England](https://ssrn.com/abstract=4393373) 
+<br/> 
+with Zach Brown, Chris Hansman, and Jordan Keener 
+<br/>
+Media: [Vox EU](https://cepr.org/voxeu/columns/why-high-income-patients-go-higher-quality-doctors) | [Forbes](https://www.forbes.com/sites/imperialinsights/2024/07/19/unequal-access-to-information-is-the-hidden-barrier-to-free-healthcare/)
+<br/>
 Reject & Resubmit at **American Economic Review**
 
 
 
-[Optimal Privacy with Coarse Labels in Screening Markets](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5863302) <br/> with Niklas Häusle, Daniel Quigley, Casey Rothschild and Yanwei Sun <br/>
+[Optimal Privacy with Coarse Labels in Screening Markets](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5863302) 
+<br/> 
+with Niklas Häusle, Daniel Quigley, Casey Rothschild and Yanwei Sun <br/>
 
 
 
-[Information Design in Selection Markets: A Bounding Result](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6907880) <br/> with Niklas Häusle, Daniel Quigley, Casey Rothschild and Yanwei Sun <br/>
+[Information Design in Selection Markets: A Bounding Result](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6907880) 
+<br/> 
+with Niklas Häusle, Daniel Quigley, Casey Rothschild and Yanwei Sun <br/>
 
 
 
@@ -51,29 +59,43 @@ Reject & Resubmit at **American Economic Review**
 
 
 
-[Optimal Contract Regulation in Selection Markets](https://www.aeaweb.org/articles?id=10.1257/mic.20230164&&from=f) <br/>
- with John Levy <br/>
-**AEJ: Micro**, 2024 <br/>
+[Optimal Contract Regulation in Selection Markets](https://www.aeaweb.org/articles?id=10.1257/mic.20230164&&from=f) 
+<br/>
+with John Levy 
+<br/>
+**American Economic Journal: Microeconomics**, 2024 
+<br/>
 [SSRN](http://dx.doi.org/10.2139/ssrn.4029945) | [Code](code_2024_AEJMicro.zip)
 
-[Attention Spillovers from News to Ads: Evidence from an Eye-Tracking Experiment](https://doi.org/10.1177/00222437241256900) <br/> with Tommaso Valletti and Andrey Simonov <br/>
-**Journal of Marketing Research**, 2024 <br/>
+
+[Attention Spillovers from News to Ads: Evidence from an Eye-Tracking Experiment](https://doi.org/10.1177/00222437241256900) 
+<br/>
+with Tommaso Valletti and Andrey Simonov 
+<br/>
+**Journal of Marketing Research**, 2024 
+<br/>
 Media: [Faculty.net](https://faculti.net/attention-recall-and-purchase/) | [Vox EU](https://cepr.org/voxeu/columns/advertiser-block-lists-threat-media-integrity)
 
 
 
 
 [Price Discrimination in Selection Markets](https://doi.org/10.1162/rest_a_01330) <br/>
-**Review of Economics and Statistics**, 2023 <br/>
-Shortlisted for SCOR/EGRIE Young Economist Best Paper Award 2020   <br/>
+**Review of Economics and Statistics**, 2023 
+<br/>
+Shortlisted for SCOR/EGRIE Young Economist Best Paper Award 2020 
+<br/> 
 [Code](code_2023_REStat.zip)
 
 
 [Should I stay or should I go? Migrating away from an incumbent platform](http://dx.doi.org/10.1111/1756-2171.12418)
-<br/> with Gary Biglaiser and Jacques Cremer  <br/>
-**RAND Journal of Economics**, 2022 <br/>
-Shortlisted for Best paper in Economics, 2023 Antitrust Writing Awards <br/>
-Media: [Faculty.net](https://faculti.net/should-i-stay-or-should-i-go-migrating-away-from-an-incumbent-platform/) | 
+<br/> with Gary Biglaiser and Jacques Cremer  
+<br/>
+**RAND Journal of Economics**, 2022 
+<br/>
+Shortlisted for Best paper in Economics, 2023 Antitrust Writing Awards 
+<br/>
+Media: 
+[Faculty.net](https://faculti.net/should-i-stay-or-should-i-go-migrating-away-from-an-incumbent-platform/) | 
 [IB Knowledge](https://www.imperial.ac.uk/business-school/ib-knowledge/strategy-leadership/why-did-google-fail) |
 [Promarket](https://www.promarket.org/2023/02/16/user-hesitancy-increases-online-platforms-incumbency-advantage/)
 
